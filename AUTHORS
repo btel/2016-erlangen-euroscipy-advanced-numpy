@@ -1,0 +1,13 @@
+# Authors
+
+Bartosz Teleńczuk <mail@telenczuk.pl>
+
+Some of the exercises and examples were based on:
+
+-  "NumPy: creating and manipulating numerical data" by  Emmanuelle Gouillart, Didrik Pinte, Gaël Varoquaux, and Pauli Virtanen of (Scipy Lectures)[http://www.scipy-lectures.org/] (edited by Gaël Varoquaux, Emmanuelle Gouillart and Olav Vahtras) and licenced with Creative Commons Attribution 4.0 
+
+- "Advanced NumPy patterns" lecture by Juan Nunez-Iglesias (https://github.com/jni/aspp2015)
+
+- "Advanced NumPy tutorial" by Stefan van der Walt (https://python.g-node.org/python-summerschool-2014/numpy.html)
+
+- "100 NumPy exercises" by Nicolas Rougier and others (https://github.com/rougier/numpy-100)
