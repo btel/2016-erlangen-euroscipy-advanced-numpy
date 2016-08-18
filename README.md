@@ -1,3 +1,5 @@
+ [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/btel/2016-erlangen-euroscipy-advanced-numpy) 
+ 
 # Working efficiently with multi-dimensional arrays in NumPy and xarray
 
 Materials for "Advanced NumPy" tutorial at EuroScipy 2016
